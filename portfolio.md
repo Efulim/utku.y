@@ -22,13 +22,13 @@ permalink: /portfolio/
   * Client: [Self](https://uy.github.io/utku.y/)
     * Application Name: Slide It
     * [Market Link](https://play.google.com/store/apps/details?id=com.simurg.swipeit)
-    * Date: 
+    * Date:
     * This app written on [Android Studio](https://developer.android.com/studio/index.html)
     * Written by Java with [LibGDX](https://libgdx.badlogicgames.com/)
   * Client: [Self](https://uy.github.io/utku.y/)
     * Application Name: You PWNED Bird
     * [Market Link](https://play.google.com/store/apps/details?id=com.simurg.youpwnd)
-    * Date: 
+    * Date:
     * This app written on [Android Studio](https://developer.android.com/studio/index.html)
     * Written by Java with [LibGDX](https://libgdx.badlogicgames.com/) with tutorial from [Kilobolt](http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html)
 
