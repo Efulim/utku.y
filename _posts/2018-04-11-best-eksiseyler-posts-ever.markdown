@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Blues is really cool!"
 date:   2018-04-11 22:32:00 +0300
 categories: eksiseyler daily
 ---
