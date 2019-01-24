@@ -10,3 +10,4 @@ categories: eksiseyler daily
 * [https://seyler.eksisozluk.com/kilo-verme-arzusu-zayifliktan-ziyade-baska-amaclar-uzerine-olanlar-icin-aydinlatici-bilgiler](Kilo Verme Arzusu Zayıflıktan Ziyade Başka Amaçlar Üzerine Olanlar İçin Aydınlatıcı Bilgiler)
 * [Yabancı Olup da Buram Buram Arabesk Kokan Şarkılar](https://seyler.eksisozluk.com/yabanci-olup-da-buram-buram-arabesk-kokan-sarkilar)
 * [İnsanın Ayaklarını Yerden Kesen Blues Müziğin Kısa Bir Tarihi ve En Güzide Örnekleri](https://seyler.eksisozluk.com/insanin-ayaklarini-yerden-kesen-blues-muzigin-kisa-bir-tarihi-ve-en-guzide-ornekleri)
+* [Spotify'da Size Çok İyi Zaman Geçirtecek Muhteşem Türkçe Podcastler](https://seyler.eksisozluk.com/spotifyda-size-cok-iyi-zaman-gecirtecek-muhtesem-turkce-podcastler)
